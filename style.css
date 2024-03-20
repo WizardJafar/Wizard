@@ -58,7 +58,14 @@ main p {
 }
 
 .showcase button{
-   padding: ;
+   padding: 20px 40px 20px 40px;
+   background: #1aab7b;
+   border: 1px solid transparent;
+   color: #fff;
+   font-weight: 700;
+   border-radius: 6px;
 }
+
+
 
 
